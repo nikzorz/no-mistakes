@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.98.0](https://github.com/kunchenguid/no-mistakes/compare/v1.97.2...v1.98.0) (2026-10-17)
+
+
+### Features
+
+* **pipeline:** continue incomplete Review coverage in the same run ([#1490](https://github.com/kunchenguid/no-mistakes/issues/1490)) ([fd8d6fa](https://github.com/kunchenguid/no-mistakes/commit/fd8d6fa8a1a423797405e18973298710ef648f59))
+
+
+### Bug Fixes
+
+* **update:** restart the daemon through the newly installed binary ([#1493](https://github.com/kunchenguid/no-mistakes/issues/1493)) ([e3ce34e](https://github.com/kunchenguid/no-mistakes/commit/e3ce34e8c749e2fc2850b402a1069fcd55c90580)), closes [#1383](https://github.com/kunchenguid/no-mistakes/issues/1383)
+
 ## [1.97.2](https://github.com/kunchenguid/no-mistakes/compare/v1.97.1...v1.97.2) (2026-10-15)
 
 
